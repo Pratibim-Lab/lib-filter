@@ -1,0 +1,17 @@
+{
+  "id": "Filter/0603USB-951:0603USB-951",
+  "name": "0603USB-951",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/0603USB-951.kicad_sym",
+  "description": "Coilcraft common mode choke, 500mA, 250VAC, 63nH, 142mohm, 2.8Ghz",
+  "datasheet": "https://www.coilcraft.com/pdfs/0603usb.pdf",
+  "keywords": "signal line filter",
+  "footprint": "Inductor_SMD:L_CommonModeChoke_Coilcraft_0603USB",
+  "extends": "Choke_CommonMode_FerriteCore_1243",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/0603USB-951/",
+  "part_path": "parts/0603USB-951",
+  "symbol_file": "parts/0603USB-951/0603USB-951.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.099Z"
+}

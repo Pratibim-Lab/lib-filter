@@ -1,0 +1,17 @@
+{
+  "id": "Filter/SAFFA1G96FN0F0A:SAFFA1G96FN0F0A",
+  "name": "SAFFA1G96FN0F0A",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/SAFFA1G96FN0F0A.kicad_sym",
+  "description": "Murata 1960MHz SAW filter, SMD 1411",
+  "datasheet": "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/filter/rf/p73e.ashx?la=en",
+  "keywords": "SAW filter",
+  "footprint": "Filter:Filter_1411-5_1.4x1.1mm",
+  "extends": "SF14-1575F5UUA1",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/SAFFA1G96FN0F0A/",
+  "part_path": "parts/SAFFA1G96FN0F0A",
+  "symbol_file": "parts/SAFFA1G96FN0F0A/SAFFA1G96FN0F0A.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.366Z"
+}

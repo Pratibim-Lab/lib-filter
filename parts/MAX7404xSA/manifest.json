@@ -1,0 +1,17 @@
+{
+  "id": "Filter/MAX7404xSA:MAX7404xSA",
+  "name": "MAX7404xSA",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/MAX7404xSA.kicad_sym",
+  "description": "8th-Order Active Low Pass Filter, 0.001 to 10kHz, Elliptic Response, 1.5 Transition Ratio, Clock Tunable, 100:1 Clock to Cutoff Frequency, 3V Max supply, SOIC-8",
+  "datasheet": "https://www.analog.com/en/max7400/datasheet",
+  "keywords": "Analog-Devices",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "MAX7400xSA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/MAX7404xSA/",
+  "part_path": "parts/MAX7404xSA",
+  "symbol_file": "parts/MAX7404xSA/MAX7404xSA.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.285Z"
+}

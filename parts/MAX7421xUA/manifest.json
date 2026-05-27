@@ -1,0 +1,17 @@
+{
+  "id": "Filter/MAX7421xUA:MAX7421xUA",
+  "name": "MAX7421xUA",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/MAX7421xUA.kicad_sym",
+  "description": "5th-Order Active Low Pass Filter, 0.001 to 30kHz, Elliptic Response, 1.25 Transition Ratio, Clock Tunable, 100:1 Clock to Cutoff Frequency, 5V Max supply, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/max7418-max7425.pdf",
+  "keywords": "Analog-Devices",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "MAX7418xUA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/MAX7421xUA/",
+  "part_path": "parts/MAX7421xUA",
+  "symbol_file": "parts/MAX7421xUA/MAX7421xUA.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.336Z"
+}

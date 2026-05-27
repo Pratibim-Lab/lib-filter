@@ -1,0 +1,17 @@
+{
+  "id": "Filter/BNX025:BNX025",
+  "name": "BNX025",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/BNX025.kicad_sym",
+  "description": "EMI Filter SMD, Murata BNX025",
+  "datasheet": "https://www.murata.com/en-us/products/productdetail.aspx?cate=luNoiseSupprFilteBlockType&partno=BNX025H01%23",
+  "keywords": "EMI Filter SMD Murata",
+  "footprint": "Filter:Filter_Murata_BNX025",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/BNX025/",
+  "part_path": "parts/BNX025",
+  "symbol_file": "parts/BNX025/BNX025.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.133Z"
+}

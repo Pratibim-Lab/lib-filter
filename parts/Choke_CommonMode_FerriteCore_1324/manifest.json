@@ -1,0 +1,17 @@
+{
+  "id": "Filter/Choke_CommonMode_FerriteCore_1324:Choke_CommonMode_FerriteCore_1324",
+  "name": "Choke_CommonMode_FerriteCore_1324",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/Choke_CommonMode_FerriteCore_1324.kicad_sym",
+  "description": "Generic common-mode choke, ferrite core, 1324 pin order",
+  "datasheet": "",
+  "keywords": "signal line filter",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/Choke_CommonMode_FerriteCore_1324/",
+  "part_path": "parts/Choke_CommonMode_FerriteCore_1324",
+  "symbol_file": "parts/Choke_CommonMode_FerriteCore_1324/Choke_CommonMode_FerriteCore_1324.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.139Z"
+}

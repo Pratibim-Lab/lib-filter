@@ -1,0 +1,17 @@
+{
+  "id": "Filter/P300PL154M275xC332:P300PL154M275xC332",
+  "name": "P300PL154M275xC332",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/P300PL154M275xC332.kicad_sym",
+  "description": "EMI suppression capacitor PZB300 series, metallized paper, X2 and Y2 classes, 275 VAC, Cx 0.15uF, Cy 3.3nF, legacy P/N: PZB300MC22xxx",
+  "datasheet": "https://content.kemet.com/datasheets/KEM_F3019_PZB300X2_2XY2_275.pdf",
+  "keywords": "suppressor filter cap",
+  "footprint": "Filter:Filter_KEMET_PZB300_24.0x12.5mm_P10.0mm",
+  "extends": "P300PL104M275xC222",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/P300PL154M275xC332/",
+  "part_path": "parts/P300PL154M275xC332",
+  "symbol_file": "parts/P300PL154M275xC332/P300PL154M275xC332.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.360Z"
+}

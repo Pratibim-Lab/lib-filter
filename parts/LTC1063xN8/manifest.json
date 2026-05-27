@@ -1,0 +1,17 @@
+{
+  "id": "Filter/LTC1063xN8:LTC1063xN8",
+  "name": "LTC1063xN8",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/LTC1063xN8.kicad_sym",
+  "description": "5th-Order Active Low Pass Filter, 0.0003 to 50kHz, Butterworth Response, Clock Tunable, 100:1 Clock to Cutoff Frequency, Low DC offset, 8V Max dual supply, DIP-8",
+  "datasheet": "https://www.analog.com/en/ltc1063/datasheet",
+  "keywords": "Analog-Devices",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "LTC1065xN8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/LTC1063xN8/",
+  "part_path": "parts/LTC1063xN8",
+  "symbol_file": "parts/LTC1063xN8/LTC1063xN8.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.214Z"
+}

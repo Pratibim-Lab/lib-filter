@@ -1,0 +1,17 @@
+{
+  "id": "Filter/Choke_CommonMode_PulseElectronics_PH9455x205NL:Choke_CommonMode_PulseElectronics_PH9455x205NL",
+  "name": "Choke_CommonMode_PulseElectronics_PH9455x205NL",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/Choke_CommonMode_PulseElectronics_PH9455x205NL.kicad_sym",
+  "description": "Common mode choke, 16A, 380VAC, 2.2mH, 4.5 mOhm, PH9455x205NL",
+  "datasheet": "https://productfinder.pulseelectronics.com/api/open/product-attachments/datasheet/ph9455.105nl",
+  "keywords": "common-mode common mode choke powerline power line filter",
+  "footprint": "Inductor_THT:L_CommonMode_PulseElectronics_PH9455x205NL_1",
+  "extends": "Choke_CommonMode_PulseElectronics_PH9455x105NL",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/Choke_CommonMode_PulseElectronics_PH9455x205NL/",
+  "part_path": "parts/Choke_CommonMode_PulseElectronics_PH9455x205NL",
+  "symbol_file": "parts/Choke_CommonMode_PulseElectronics_PH9455x205NL/Choke_CommonMode_PulseElectronics_PH9455x205NL.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.151Z"
+}

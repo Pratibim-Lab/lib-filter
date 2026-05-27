@@ -1,0 +1,17 @@
+{
+  "id": "Filter/MAX7414xPA:MAX7414xPA",
+  "name": "MAX7414xPA",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/MAX7414xPA.kicad_sym",
+  "description": "5th-Order Active Low Pass Filter, 0.001 to 15kHz, Butterworth Response, Clock Tunable, 100:1 Clock to Cutoff Frequency, 3V Max supply, DIP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX7409-MAX7414.pdf",
+  "keywords": "Analog-Devices",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "MAX7400xPA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/MAX7414xPA/",
+  "part_path": "parts/MAX7414xPA",
+  "symbol_file": "parts/MAX7414xPA/MAX7414xPA.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.321Z"
+}

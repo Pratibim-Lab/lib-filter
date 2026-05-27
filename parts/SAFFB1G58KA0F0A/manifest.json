@@ -1,0 +1,17 @@
+{
+  "id": "Filter/SAFFB1G58KA0F0A:SAFFB1G58KA0F0A",
+  "name": "SAFFB1G58KA0F0A",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/SAFFB1G58KA0F0A.kicad_sym",
+  "description": "Murata 1575.42/1602MHz SAW filter, SMD 1109",
+  "datasheet": "https://www.murata.com/~/media/webrenewal/support/library/catalog/products/filter/rf/p73e.ashx?la=en",
+  "keywords": "SAW filter",
+  "footprint": "Filter:Filter_1109-5_1.1x0.9mm",
+  "extends": "B39162B8813P810",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/SAFFB1G58KA0F0A/",
+  "part_path": "parts/SAFFB1G58KA0F0A",
+  "symbol_file": "parts/SAFFB1G58KA0F0A/SAFFB1G58KA0F0A.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.374Z"
+}

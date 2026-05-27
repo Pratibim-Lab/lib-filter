@@ -1,0 +1,17 @@
+{
+  "id": "Filter/LTC1562xxG:LTC1562xxG",
+  "name": "LTC1562xxG",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/LTC1562xxG.kicad_sym",
+  "description": "Active RC Quad Universal Filter, 10kHz to 150kHz, Low Noise, Low Distortion, SSOP-20",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1562fa.pdf",
+  "keywords": "filter opamp quad",
+  "footprint": "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/LTC1562xxG/",
+  "part_path": "parts/LTC1562xxG",
+  "symbol_file": "parts/LTC1562xxG/LTC1562xxG.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.225Z"
+}

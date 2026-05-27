@@ -1,0 +1,17 @@
+{
+  "id": "Filter/1FP65-1R:1FP65-1R",
+  "name": "1FP65-1R",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/1FP65-1R.kicad_sym",
+  "description": "1A, 250VAC, 50/60Hz line filter",
+  "datasheet": "https://filtercon.com.pl/wp-content/uploads/2019/07/Karta-katalogowa-FP-12-1.pdf",
+  "keywords": "EMI",
+  "footprint": "Filter:Filter_FILTERCON_1FPxx",
+  "extends": "1FP45-0R",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/1FP65-1R/",
+  "part_path": "parts/1FP65-1R",
+  "symbol_file": "parts/1FP65-1R/1FP65-1R.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.129Z"
+}

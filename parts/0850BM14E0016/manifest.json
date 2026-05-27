@@ -1,0 +1,17 @@
+{
+  "id": "Filter/0850BM14E0016:0850BM14E0016",
+  "name": "0850BM14E0016",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/0850BM14E0016.kicad_sym",
+  "description": "Sub-GHz Impedance Matched Balun + LPF integrated Passive",
+  "datasheet": "https://www.johansontechnology.com/datasheets/0850BM14E0016/0850BM14E0016.pdf",
+  "keywords": "Sub-GHz Balun",
+  "footprint": "RF_Converter:Balun_Johanson_1.6x0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/0850BM14E0016/",
+  "part_path": "parts/0850BM14E0016",
+  "symbol_file": "parts/0850BM14E0016/0850BM14E0016.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.102Z"
+}

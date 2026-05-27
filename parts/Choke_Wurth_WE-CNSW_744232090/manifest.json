@@ -1,0 +1,17 @@
+{
+  "id": "Filter/Choke_Wurth_WE-CNSW_744232090:Choke_Wurth_WE-CNSW_744232090",
+  "name": "Choke_Wurth_WE-CNSW_744232090",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/Choke_Wurth_WE-CNSW_744232090.kicad_sym",
+  "description": "Common mode choke, 370 mA, 125VDC, USB2.0, 111 nH",
+  "datasheet": "https://www.we-online.com/components/products/datasheet/744232090.pdf",
+  "keywords": "common mode choke emi usb",
+  "footprint": "Inductor_SMD:L_CommonMode_Wurth_WE-CNSW-1206",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/Choke_Wurth_WE-CNSW_744232090/",
+  "part_path": "parts/Choke_Wurth_WE-CNSW_744232090",
+  "symbol_file": "parts/Choke_Wurth_WE-CNSW_744232090/Choke_Wurth_WE-CNSW_744232090.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.178Z"
+}

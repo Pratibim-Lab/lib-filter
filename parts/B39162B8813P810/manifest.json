@@ -1,0 +1,17 @@
+{
+  "id": "Filter/B39162B8813P810:B39162B8813P810",
+  "name": "B39162B8813P810",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/B39162B8813P810.kicad_sym",
+  "description": "1582.47MHz SAW filter, SMD 1109",
+  "datasheet": "https://product.tdk.com/search-template/en/documents/data_sheet/40/ds/mc/B9482.pdf",
+  "keywords": "SAW filter",
+  "footprint": "Filter:Filter_1109-5_1.1x0.9mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/B39162B8813P810/",
+  "part_path": "parts/B39162B8813P810",
+  "symbol_file": "parts/B39162B8813P810/B39162B8813P810.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.131Z"
+}

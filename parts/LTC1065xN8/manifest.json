@@ -1,0 +1,17 @@
+{
+  "id": "Filter/LTC1065xN8:LTC1065xN8",
+  "name": "LTC1065xN8",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/LTC1065xN8.kicad_sym",
+  "description": "5th-Order Active Low Pass Filter, 0.0003 to 50kHz, Bessel Response, Clock Tunable, 100:1 Clock to Cutoff Frequency, Low DC offset, 8V Max dual supply, DIP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1065fb.pdf",
+  "keywords": "Analog-Devices",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/LTC1065xN8/",
+  "part_path": "parts/LTC1065xN8",
+  "symbol_file": "parts/LTC1065xN8/LTC1065xN8.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.219Z"
+}

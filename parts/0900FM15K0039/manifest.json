@@ -1,0 +1,17 @@
+{
+  "id": "Filter/0900FM15K0039:0900FM15K0039",
+  "name": "0900FM15K0039",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/0900FM15K0039.kicad_sym",
+  "description": "868MHz/915MHz Sub-GHz Impedance Matched Filter integrated passive for Semtech SX1261, SX1262, LLCC68",
+  "datasheet": "https://www.johansontechnology.com/datasheets/0900FM15K0039/0900FM15K0039.pdf",
+  "keywords": "Sub-GHz filter",
+  "footprint": "RF_Converter:Balun_Johanson_0900FM15K0039",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/0900FM15K0039/",
+  "part_path": "parts/0900FM15K0039",
+  "symbol_file": "parts/0900FM15K0039/0900FM15K0039.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.104Z"
+}

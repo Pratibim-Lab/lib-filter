@@ -1,0 +1,17 @@
+{
+  "id": "Filter/Choke_Schaffner_RN102-0.3-02-12M:Choke_Schaffner_RN102-0.3-02-12M",
+  "name": "Choke_Schaffner_RN102-0.3-02-12M",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/Choke_Schaffner_RN102-0.3-02-12M.kicad_sym",
+  "description": "Common mode choke, 300mA, 300VAC, 12mH, 1.1 ohm, RN-102",
+  "datasheet": "https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/",
+  "keywords": "common-mode common mode choke powerline power line filter",
+  "footprint": "Inductor_THT:Choke_Schaffner_RN102-04-14.0x14.0mm",
+  "extends": "Choke_Schaffner_RN102-0.3-02-22M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/Choke_Schaffner_RN102-0.3-02-12M/",
+  "part_path": "parts/Choke_Schaffner_RN102-0.3-02-12M",
+  "symbol_file": "parts/Choke_Schaffner_RN102-0.3-02-12M/Choke_Schaffner_RN102-0.3-02-12M.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.164Z"
+}

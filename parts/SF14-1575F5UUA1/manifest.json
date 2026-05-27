@@ -1,0 +1,17 @@
+{
+  "id": "Filter/SF14-1575F5UUA1:SF14-1575F5UUA1",
+  "name": "SF14-1575F5UUA1",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/SF14-1575F5UUA1.kicad_sym",
+  "description": "1575MHz SAW filter, SMD 1411",
+  "datasheet": "https://global.kyocera.com/prdct/electro/product/pdf/sf14_gnss.pdf",
+  "keywords": "SAW filter",
+  "footprint": "Filter:Filter_1411-5_1.4x1.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/SF14-1575F5UUA1/",
+  "part_path": "parts/SF14-1575F5UUA1",
+  "symbol_file": "parts/SF14-1575F5UUA1/SF14-1575F5UUA1.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.384Z"
+}

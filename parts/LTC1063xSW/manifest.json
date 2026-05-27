@@ -1,0 +1,17 @@
+{
+  "id": "Filter/LTC1063xSW:LTC1063xSW",
+  "name": "LTC1063xSW",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/LTC1063xSW.kicad_sym",
+  "description": "5th-Order Active Low Pass Filter, 0.0003 to 50kHz, Butterworth Response, Clock Tunable, 100:1 Clock to Cutoff Frequency, Low DC offset, 8V Max dual supply, SOIC-16",
+  "datasheet": "https://www.analog.com/en/ltc1063/datasheet",
+  "keywords": "Analog-Devices",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "LTC1065xSW",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/LTC1063xSW/",
+  "part_path": "parts/LTC1063xSW",
+  "symbol_file": "parts/LTC1063xSW/LTC1063xSW.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.216Z"
+}

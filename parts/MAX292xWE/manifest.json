@@ -1,0 +1,17 @@
+{
+  "id": "Filter/MAX292xWE:MAX292xWE",
+  "name": "MAX292xWE",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/MAX292xWE.kicad_sym",
+  "description": "8th-Order Active Low Pass Filter, 0.0001 to 25kHz, Bessel Response, Clock Tunable, 100:1 Clock to Cutoff Frequency, ±5V Max supply, SOIC-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX291-MAX296.pdf",
+  "keywords": "bessel dual-supply",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "MAX291xWE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/MAX292xWE/",
+  "part_path": "parts/MAX292xWE",
+  "symbol_file": "parts/MAX292xWE/MAX292xWE.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.238Z"
+}

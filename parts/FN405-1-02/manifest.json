@@ -1,0 +1,17 @@
+{
+  "id": "Filter/FN405-1-02:FN405-1-02",
+  "name": "FN405-1-02",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/FN405-1-02.kicad_sym",
+  "description": "1A, 250VAC, 50/60Hz line filter",
+  "datasheet": "https://www.schaffner.com/de/produkte/download/product/datasheet/fn-405-pcb-mounting-filter/",
+  "keywords": "EMI",
+  "footprint": "Filter:Filter_Schaffner_FN405",
+  "extends": "FN405-0.5-02",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/FN405-1-02/",
+  "part_path": "parts/FN405-1-02",
+  "symbol_file": "parts/FN405-1-02/FN405-1-02.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.182Z"
+}

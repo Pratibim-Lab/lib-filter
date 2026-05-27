@@ -1,0 +1,17 @@
+{
+  "id": "Filter/MAX294xPA:MAX294xPA",
+  "name": "MAX294xPA",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/MAX294xPA.kicad_sym",
+  "description": "8th-Order Active Low Pass Filter, 0.0001 to 25kHz, Elliptic Response, 1.2 Transition Ratio, Clock Tunable, 100:1 Clock to Cutoff Frequency, ±5V Max supply, DIP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX293-MAX297.pdf",
+  "keywords": "elliptic dual-supply",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "MAX291xPA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/MAX294xPA/",
+  "part_path": "parts/MAX294xPA",
+  "symbol_file": "parts/MAX294xPA/MAX294xPA.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.246Z"
+}

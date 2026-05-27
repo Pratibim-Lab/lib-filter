@@ -1,0 +1,17 @@
+{
+  "id": "Filter/MAX293xWE:MAX293xWE",
+  "name": "MAX293xWE",
+  "library": "Filter",
+  "file": "Filter.kicad_symdir/MAX293xWE.kicad_sym",
+  "description": "8th-Order Active Low Pass Filter, 0.0001 to 25kHz, Elliptic Response, 1.5 Transition Ratio, Clock Tunable, 100:1 Clock to Cutoff Frequency, ±5V Max supply, SOIC-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX293-MAX297.pdf",
+  "keywords": "elliptic dual-supply",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "MAX291xWE",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-filter@master/parts/MAX293xWE/",
+  "part_path": "parts/MAX293xWE",
+  "symbol_file": "parts/MAX293xWE/MAX293xWE.kicad_sym",
+  "source_library": "Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:49.244Z"
+}
